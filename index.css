@@ -1,0 +1,45 @@
+h4 {
+  text-align: left;
+  display: inline-block;
+  padding: 0 0 0 20px;
+  width: 15%;
+}
+img {
+  text-align: left;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+}
+
+.title {
+  display: inline-block;
+  line-height: 0;
+}
+
+.im {
+  font-style: italic;
+}
+
+.ima {
+  font-weight: bold;
+}
+
+.wke {
+  text-align: left;
+  display: inline-block;
+  padding: 0 182.5px 0 20px;
+  width: 15% 20%;
+  line-height: 0;
+}
+
+.cmail {
+  display: inline;
+}
+
+.in {
+  display: inline-block;
+}
+
+.info {
+  line-height: 0;
+}
